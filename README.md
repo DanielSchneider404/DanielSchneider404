@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1200" height="152" alt="Banner" src="https://github.com/user-attachments/assets/6299e8ea-b722-4392-9d84-81187d052958">
+  <img width="1200" height="367" alt="Banner" src="https://github.com/user-attachments/assets/6299e8ea-b722-4392-9d84-81187d052958">
 </p>
 <p align="center">
    PLAYTIME: 4,963.9 hours

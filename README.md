@@ -20,7 +20,7 @@
 (>ᴗ−)☆
 </p>
 </tr>
-<img width="1030" height="60" alt="image" src="https://github.com/user-attachments/assets/bf02b9e5-c008-46ab-af0f-d77d5b0a3708" />
+<img width="1030" height="60" alt="image" src="https://github.com/user-attachments/assets/bf02b9e5-c008-46ab-af0f-d77d5b0a3708" /><img width="1030" height="60" alt="68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f63373935636136356639376639313832616234346431356234323561636434652f626431383037356166336534653731612d62652f733132383078313932302f333561303732303762333437653961306439643263346533643" src="https://github.com/user-attachments/assets/aebfa715-8b62-4ab0-939f-9f54ee0f4e93" />
 
 </table>
 ⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜

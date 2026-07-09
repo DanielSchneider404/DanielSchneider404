@@ -21,7 +21,7 @@
 </p>
 </tr>
 <img width="1030" height="60" alt="68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f63373935636136356639376639313832616234346431356234323561636434652f626431383037356166336534653731612d62652f733132383078313932302f333561303732303762333437653961306439643263346533643" src="https://github.com/user-attachments/assets/aebfa715-8b62-4ab0-939f-9f54ee0f4e93" />
-
+i easily get attached to people and im REALLY friendly , feel free to talk to me! yet , i often feel excluded and i tend to move away if i feel unwelcomed // i dont ghost people on purpose! i probably didnt notice ur text or im mentally unwell ..
 </table>
 ⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜
 <img width="1200" height="152" alt="image" src="https://github.com/user-attachments/assets/46169070-5724-4aba-883b-0f405b4d8e38" />

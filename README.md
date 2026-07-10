@@ -29,8 +29,8 @@
 <tr>
 
 <td width="32%" valign="top">
-<img src="<img width="735" alt="image" src="https://github.com/user-attachments/assets/a10b7cb1-1880-4bb2-a374-04f3fa83348f" />
-" width="100%">
+<img width="735" height="683" alt="image" src="https://github.com/user-attachments/assets/0684d540-d375-442d-a371-dc12883f6baa" />
+
 </td>
 
 <td width="68%" valign="top" align="left">

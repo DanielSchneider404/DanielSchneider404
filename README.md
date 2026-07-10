@@ -29,10 +29,11 @@
 <tr>
 
 <td width="32%" valign="top">
+
 <table>
 <tr>
 
-<td width="66%" valign="top">
+<td width="68%" valign="top">
 
 <p align="justify">
 
@@ -42,8 +43,9 @@ I like watching people have fun together. Seeing them laugh, joke around, and en
 
 </td>
 
-<td width="34%" valign="top" align="right">
-<img width="735" height="683" alt="image" src="https://github.com/user-attachments/assets/29c147a4-2e6d-45cd-98e9-c5ee0dd09c67" />
+<td width="32%" valign="top" align="right">
+
+<img src="https://github.com/user-attachments/assets/29c147a4-2e6d-45cd-98e9-c5ee0dd09c67" width="250" alt="Tom">
 
 </td>
 

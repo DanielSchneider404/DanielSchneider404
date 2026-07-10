@@ -50,9 +50,3 @@ I like watching people have fun together. Seeing them laugh, joke around, and en
 
 </tr>
 </table>
-<img width="575" height="73" alt="image" src="https://github.com/user-attachments/assets/a1fcb623-1797-453d-a169-c0962fab0abf" />
-
-
-
-
-

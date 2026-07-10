@@ -26,5 +26,27 @@
 <img width="1200" height="152" alt="image" src="https://github.com/user-attachments/assets/46169070-5724-4aba-883b-0f405b4d8e38" />
 <img width="1200" height="20" alt="612770163-15440338-8a4d-45ca-8a7e-5a09a22bc1d5" src="https://github.com/user-attachments/assets/1b5be733-d04b-4c4a-8375-13df460fac3f" />
 <img width="1030"" alt="image" src="https://github.com/user-attachments/assets/8f5fbed5-de17-425c-8aa5-be95c93f589b" />
+$\color{1b81a6}\normalsize{\texttt{i'm terrible at communication, clumsy at}}$
 
+$\color{1b81a6}\normalsize{\texttt{holding onto relationships, clueless about}}$
+
+$\color{1b81a6}\normalsize{\texttt{taking the initiative, and hopeless at}}$
+
+$\color{1b81a6}\normalsize{\texttt{holding back anyone who wants to leave.}}$
+
+$\color{1b81a6}\normalsize{\texttt{i always thought that being genuine was}}$
+
+$\color{1b81a6}\normalsize{\texttt{enough, but as usual, i ended up being}}$
+
+$\color{1b81a6}\normalsize{\texttt{left behind. i wanted to blend in, to be}}$
+
+$\color{1b81a6}\normalsize{\texttt{a part of someone's world, but my social}}$
+
+$\color{1b81a6}\normalsize{\texttt{awkwardness always gets in the way.}}$
+
+$\color{1b81a6}\normalsize{\texttt{in the end, i'm just an observer,}}$
+
+$\color{1b81a6}\normalsize{\texttt{watching everyone else move forward while}}$
+
+$\color{1b81a6}\normalsize{\texttt{i remain stuck in my own quiet corner.}}$
 

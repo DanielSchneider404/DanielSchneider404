@@ -43,7 +43,8 @@ I like watching people have fun together. Seeing them laugh, joke around, and en
 
 <td width="32%" valign="top" align="right">
 
-<img src="https://github.com/user-attachments/assets/29c147a4-2e6d-45cd-98e9-c5ee0dd09c67" width="250" alt="Tom">
+<img width="544" height="680" alt="image" src="https://github.com/user-attachments/assets/22184225-ab61-4132-b60d-2ec0b6a5e6cf" />
+
 
 </td>
 

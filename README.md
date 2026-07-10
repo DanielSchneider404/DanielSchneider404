@@ -1,3 +1,5 @@
+<img width="575" height="73" alt="68747470733a2f2f64697669646572732e6372642e636f2f6173736574732f696d616765732f67616c6c65727930342f39333762636630372e6769663f763d3035643333663931" src="https://github.com/user-attachments/assets/f7bf6e7f-25b4-4866-a466-d4739277fdf5" />
+<img width="575" height="73" alt="68747470733a2f2f64697669646572732e6372642e636f2f6173736574732f696d616765732f67616c6c65727930342f39333762636630372e6769663f763d3035643333663931" src="https://github.com/user-attachments/assets/0ebc1883-987f-4ca3-ba7f-e4005de5dfb9" />
 <p align="center">
   <img width="1200" alt="Banner" src="https://github.com/user-attachments/assets/6299e8ea-b722-4392-9d84-81187d052958">
 </p>
@@ -50,3 +52,9 @@ I like watching people have fun together. Seeing them laugh, joke around, and en
 
 </tr>
 </table>
+<img width="575" height="73" alt="image" src="https://github.com/user-attachments/assets/a1fcb623-1797-453d-a169-c0962fab0abf" />
+
+
+
+
+

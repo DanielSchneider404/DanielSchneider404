@@ -25,3 +25,23 @@
 <img width="1200" height="20" alt="612770163-15440338-8a4d-45ca-8a7e-5a09a22bc1d5" src="https://github.com/user-attachments/assets/1952f596-8265-437a-8630-06d92bf536ee" />
 <img width="1200" height="152" alt="image" src="https://github.com/user-attachments/assets/46169070-5724-4aba-883b-0f405b4d8e38" />
 <img width="1200" height="20" alt="612770163-15440338-8a4d-45ca-8a7e-5a09a22bc1d5" src="https://github.com/user-attachments/assets/1b5be733-d04b-4c4a-8375-13df460fac3f" />
+<table>
+<tr>
+
+<td width="32%" valign="top">
+<img src="<img width="735" alt="image" src="https://github.com/user-attachments/assets/a10b7cb1-1880-4bb2-a374-04f3fa83348f" />
+" width="100%">
+</td>
+
+<td width="68%" valign="top" align="left">
+
+<p align="left">
+
+I like watching people have fun together. Seeing them laugh, joke around, and enjoy each other's company somehow makes me smile. Sometimes I wish I could be part of moments like that, but I never really know how to fit in. Conversations don't come naturally to me, and I always end up standing quietly on the sidelines. Maybe that's just who I am—someone who watches from a distance while everyone else is making memories.
+
+</p>
+
+</td>
+
+</tr>
+</table>

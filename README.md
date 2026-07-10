@@ -29,17 +29,21 @@
 <tr>
 
 <td width="32%" valign="top">
-<img width="735" height="683" alt="image" src="https://github.com/user-attachments/assets/0684d540-d375-442d-a371-dc12883f6baa" />
+<table>
+<tr>
 
-</td>
+<td width="66%" valign="top">
 
-<td width="68%" valign="top" align="left">
-
-<p align="left">
+<p align="justify">
 
 I like watching people have fun together. Seeing them laugh, joke around, and enjoy each other's company somehow makes me smile. Sometimes I wish I could be part of moments like that, but I never really know how to fit in. Conversations don't come naturally to me, and I always end up standing quietly on the sidelines. Maybe that's just who I am—someone who watches from a distance while everyone else is making memories.
 
 </p>
+
+</td>
+
+<td width="34%" valign="top" align="right">
+<img width="735" height="683" alt="image" src="https://github.com/user-attachments/assets/29c147a4-2e6d-45cd-98e9-c5ee0dd09c67" />
 
 </td>
 

@@ -46,11 +46,9 @@ I like watching people have fun together. Seeing them laugh, joke around, and en
 <td width="32%" valign="top" align="right">
 <img width="544" alt="image" src="https://github.com/user-attachments/assets/22184225-ab61-4132-b60d-2ec0b6a5e6cf" /
 <img width="360" alt="image" src="https://github.com/user-attachments/assets/6b753836-ebb1-41aa-9fbf-53035f5b9098" />
-
 <!-- Couple Image -->
 <p align="center">
-  <img "<img width="360" height="248" alt="image" src="https://github.com/user-attachments/assets/acfc8a32-22f4-4d4c-b126-e095c38334b4" />
-" width="900">
+  <img width="900" src="https://github.com/user-attachments/assets/acfc8a32-22f4-4d4c-b126-e095c38334b4" />
 </p>
 
 <br>
@@ -61,7 +59,7 @@ I like watching people have fun together. Seeing them laugh, joke around, and en
 
 <td width="50%" valign="top">
 
-# 🎸 Looking for a Tord roleplayer!
+## 🎸 Looking for a Tord roleplayer!
 
 I'm not the best at roleplaying, so please be patient with me.
 
@@ -92,5 +90,5 @@ I'd be happy to get to know you first before we start roleplaying. :)
 
 <!-- Team Image -->
 <p align="center">
-  <img "<img width="2048" alt="image" src="https://github.com/user-attachments/assets/cea7244f-00c6-4a20-ab41-e3e50421a494" />
+  <img width="900" src="https://github.com/user-attachments/assets/cea7244f-00c6-4a20-ab41-e3e50421a494" />
 </p>

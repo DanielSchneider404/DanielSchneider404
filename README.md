@@ -30,9 +30,6 @@
 
 </tr>
 </table>
-
-<img width="1030" height="60" 
-
 <img width="1200" height="20" alt="612770163-15440338-8a4d-45ca-8a7e-5a09a22bc1d5" src="https://github.com/user-attachments/assets/1952f596-8265-437a-8630-06d92bf536ee" />
 
 <img width="1200" height="152" alt="image" src="https://github.com/user-attachments/assets/46169070-5724-4aba-883b-0f405b4d8e38" />

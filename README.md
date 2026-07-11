@@ -56,7 +56,6 @@ I like watching people have fun together. Seeing them laugh, joke around, and en
 
 <img width="544" alt="image" src="https://github.com/user-attachments/assets/22184225-ab61-4132-b60d-2ec0b6a5e6cf" />
 
-<img width="360" alt="image" src="https://github.com/user-attachments/assets/6b753836-ebb1-41aa-9fbf-53035f5b9098" />
 
 <p align="center">
   <img width="900" src="https://github.com/user-attachments/assets/acfc8a32-22f4-4d4c-b126-e095c38334b4" />

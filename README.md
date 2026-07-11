@@ -1,4 +1,3 @@
-
 <p align="center">
   <img width="1200" alt="Banner" src="https://github.com/user-attachments/assets/6299e8ea-b722-4392-9d84-81187d052958">
 </p>
@@ -59,15 +58,17 @@ I like watching people have fun together. Seeing them laugh, joke around, and en
 
 <td width="50%" valign="top">
 
-## 🎸 Looking for a Tord roleplayer!
+<h2>🎸 Looking for a Tord roleplayer!</h2>
 
-I'm not the best at roleplaying, so please be patient with me.
+<p>
+I'm not the best at roleplaying, so please be patient with me.<br><br>
 
-We don't have to roleplay all the time—we can just chat normally, hang out, match pfps, wear matching skins, do fit checks, or simply spend time together. I honestly just want someone I can be comfortable around.
+We don't have to roleplay all the time—we can just chat normally, hang out, match pfps, wear matching skins, do fit checks, or simply spend time together. I honestly just want someone I can be comfortable around.<br><br>
 
-I enjoy slow-paced interactions and making up stories together, but I'm also completely fine with casual conversations outside of roleplay.
+I enjoy slow-paced interactions and making up stories together, but I'm also completely fine with casual conversations outside of roleplay.<br><br>
 
 If you're kind, understanding, and don't mind helping me improve, I'd really appreciate it.
+</p>
 
 </td>
 

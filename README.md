@@ -46,3 +46,51 @@ I like watching people have fun together. Seeing them laugh, joke around, and en
 <td width="32%" valign="top" align="right">
 <img width="544" alt="image" src="https://github.com/user-attachments/assets/22184225-ab61-4132-b60d-2ec0b6a5e6cf" /
 <img width="360" alt="image" src="https://github.com/user-attachments/assets/6b753836-ebb1-41aa-9fbf-53035f5b9098" />
+
+<!-- Couple Image -->
+<p align="center">
+  <img "<img width="360" height="248" alt="image" src="https://github.com/user-attachments/assets/acfc8a32-22f4-4d4c-b126-e095c38334b4" />
+" width="900">
+</p>
+
+<br>
+
+<!-- Two text boxes -->
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+# 🎸 Looking for a Tord roleplayer!
+
+I'm not the best at roleplaying, so please be patient with me.
+
+We don't have to roleplay all the time—we can just chat normally, hang out, match pfps, wear matching skins, do fit checks, or simply spend time together. I honestly just want someone I can be comfortable around.
+
+I enjoy slow-paced interactions and making up stories together, but I'm also completely fine with casual conversations outside of roleplay.
+
+If you're kind, understanding, and don't mind helping me improve, I'd really appreciate it.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💬 About you
+
+I'd love to find someone who's active enough to talk regularly and won't mind if I take a little while to reply sometimes.
+
+If you're interested, feel free to DM me.
+
+I'd be happy to get to know you first before we start roleplaying. :)
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- Team Image -->
+<p align="center">
+  <img "<img width="2048" alt="image" src="https://github.com/user-attachments/assets/cea7244f-00c6-4a20-ab41-e3e50421a494" />
+</p>

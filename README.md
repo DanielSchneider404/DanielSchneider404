@@ -56,10 +56,22 @@ I like watching people have fun together. Seeing them laugh, joke around, and en
 
 <img width="544" alt="image" src="https://github.com/user-attachments/assets/22184225-ab61-4132-b60d-2ec0b6a5e6cf" />
 
-<br><br>
+</td>
+
+</tr>
+</table>
+
+<br>
+
 <p align="center">
   <img width="420" src="https://github.com/user-attachments/assets/acfc8a32-22f4-4d4c-b126-e095c38334b4" />
 </p>
+
+<br>
+
+<!-- Two text boxes -->
+<table align="center">
+<tr>
 
 </td>
 

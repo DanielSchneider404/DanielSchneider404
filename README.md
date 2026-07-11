@@ -74,13 +74,15 @@ If you're kind, understanding, and don't mind helping me improve, I'd really app
 
 <td width="50%" valign="top">
 
-## 💬 About you
+<h2>💬 About you</h2>
 
-I'd love to find someone who's active enough to talk regularly and won't mind if I take a little while to reply sometimes.
+<p>
+I'd love to find someone who's active enough to talk regularly and won't mind if I take a little while to reply sometimes.<br><br>
 
-If you're interested, feel free to DM me.
+If you're interested, feel free to DM me.<br><br>
 
 I'd be happy to get to know you first before we start roleplaying. :)
+</p>
 
 </td>
 
@@ -91,5 +93,5 @@ I'd be happy to get to know you first before we start roleplaying. :)
 
 <!-- Team Image -->
 <p align="center">
-  <img width="900" src="https://github.com/user-attachments/assets/cea7244f-00c6-4a20-ab41-e3e50421a494" />
+    <img width="900" src="https://github.com/user-attachments/assets/cea7244f-00c6-4a20-ab41-e3e50421a494" />
 </p>

@@ -90,7 +90,7 @@ I'm not the best at roleplaying, so please be patient with me.
 
 <br><br>
 
-We don't have to roleplay all the time—we can just chat normally, hang out, match pfps, wear matching skins, do fit checks, or simply spend time together. I honestly just want someone I can be comfortable around.
+We don't have to roleplay all the time—we can just chat normally, play game, match pfps, wear matching skins or simply spend time together. I honestly just want someone I can be comfortable around.
 
 <br><br>
 

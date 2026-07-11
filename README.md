@@ -130,5 +130,5 @@ I'd be happy to get to know you first before we start roleplaying. :)
 <br>
 
 <p align="center">
-  <img width="900" src="https://github.com/user-attachments/assets/cea7244f-00c6-4a20-ab41-e3e50421a494" />
+  <img width="1200" src="https://github.com/user-attachments/assets/cea7244f-00c6-4a20-ab41-e3e50421a494" />
 </p>

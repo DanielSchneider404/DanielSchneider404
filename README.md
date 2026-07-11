@@ -108,15 +108,11 @@ If you're kind, understanding, and don't mind helping me improve, I'd really app
 
 <p>
 
-I'd love to find someone who's active enough to talk regularly and won't mind if I take a little while to reply sometimes.
+I'd really love to find someone who's active enough to talk regularly and doesn't mind if I take a little while to reply sometimes. I can be a bit shy at first, so I might not always know what to say right away, but I genuinely enjoy spending time with people once I get comfortable.
 
-<br><br>
+I'm not looking for someone who's perfect at roleplaying—I'd much rather meet someone who's patient, understanding, and happy to take things at a relaxed pace. Whether we're roleplaying, chatting about random things, matching skins, doing fit checks, or just sitting together in silence, I'd be happy to have someone to share those moments with.
 
-If you're interested, feel free to DM me.
-
-<br><br>
-
-I'd be happy to get to know you first before we start roleplaying. :)
+If you're interested, feel free to send me a DM. We don't have to jump straight into roleplay—we can get to know each other first, become friends, and see where things go. I'd honestly love to meet someone I can feel comfortable around and create fun memories with. 💙
 
 </p>
 

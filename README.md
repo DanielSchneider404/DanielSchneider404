@@ -61,15 +61,10 @@ I like watching people have fun together. Seeing them laugh, joke around, and en
 </tr>
 </table>
 
-<img width="1030" height="60" alt="image" src="https://github.com/user-attachments/assets/ca2d7062-9af8-4770-98af-ff8f5e176a9b" />
-
 <br>
 <p align="center">
   <img width="420" src="https://github.com/user-attachments/assets/acfc8a32-22f4-4d4c-b126-e095c38334b4" />
 </p>
-
-<img width="1030" height="60" alt="image" src="https://github.com/user-attachments/assets/e183b51d-685f-4945-98ca-66e4aecd7ae2" />
-
 <br>
 <!-- Two text boxes -->
 <table align="center">

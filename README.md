@@ -51,3 +51,80 @@ I like watching people have fun together. Seeing them laugh, joke around, and en
 </tr>
 </table>
 
+
+
+
+
+
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="<img width="360" alt="image" src="https://github.com/user-attachments/assets/11be6212-c52f-4625-89c2-9931f90baff8" />
+</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center">
+<img src="LINK_ANH_2" width="250">
+</td>
+
+<td width="30"></td>
+
+<td>
+
+<b>Looking for a Tord roleplayer!</b><br><br>
+
+I'm not the best at roleplaying, so please be patient with me. We don't have to roleplay all the time—we can just chat normally, hang out, match pfps, wear matching skins, do fit checks, or simply spend time together. I honestly just want someone I can be comfortable around.<br><br>
+
+I enjoy slow-paced interactions and making up stories together, but I'm also completely fine with casual conversations outside of roleplay. If you're kind, understanding, and don't mind helping me improve, I'd really appreciate it.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td>
+
+I'd love to find someone who's active enough to talk regularly and won't mind if I take a little while to reply sometimes.<br><br>
+
+If you're interested, feel free to DM me. I'd be happy to get to know you first before we start roleplaying. :)
+
+</td>
+
+<td width="30"></td>
+
+<td align="center">
+<img src="LINK_ANH_3" width="250">
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center">
+<img src="LINK_ANH_4" width="300">
+</td>
+
+<td width="30"></td>
+
+<td align="center">
+<img src="LINK_ANH_5" width="250">
+</td>
+
+</tr>
+</table>

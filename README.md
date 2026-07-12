@@ -94,7 +94,7 @@ If you're kind, understanding, and don't mind helping me improve, I'd really app
 
 <td width="50%" valign="top">
 
-<h2>~💬 About</h2>
+<h2>── .✦ 💬 About</h2>
 
 <p>
 

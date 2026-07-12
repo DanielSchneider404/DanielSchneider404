@@ -112,8 +112,7 @@ If you're interested, feel free to send me a DM. We don't have to jump straight 
 </table>
 
 <br>
-By the way, I'd also love to join an Eddsworld roleplay group if anyone is looking for new members. I'd be really happy to meet more people in the fandom, make new friends, and roleplay together whenever everyone feels like it!
-
+Btw, I'd also love to join an Eddsworld roleplay group if anyone is looking for new members. I'd be really happy to meet more people in the fandom, make new friends, and roleplay together whenever everyone feels like it!!
 <p align="center">
   <img width="700" src="https://github.com/user-attachments/assets/cea7244f-00c6-4a20-ab41-e3e50421a494" />
 </p>

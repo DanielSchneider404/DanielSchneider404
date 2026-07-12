@@ -84,17 +84,8 @@ alt="68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f6337393563613635663
 <p>
 
 I'm not the best at roleplaying, so please be patient with me.
-
-<br><br>
-
 We don't have to roleplay all the time—we can just chat normally, play game, match pfps, wear matching skins or simply spend time together. I honestly just want someone I can be comfortable around.
-
-<br><br>
-
 I enjoy slow-paced interactions and making up stories together, but I'm also completely fine with casual conversations outside of roleplay.
-
-<br><br>
-
 If you're kind, understanding, and don't mind helping me improve, I'd really appreciate it.
 
 </p>

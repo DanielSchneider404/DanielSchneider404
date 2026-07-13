@@ -119,3 +119,6 @@ Btw, I'd also love to join an Eddsworld roleplay group if anyone is looking for 
  What the heck are you two playing?
 <table align="center">
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+<p align="center">
+  <img width="700" src="https://github.com/user-attachments/assets/cea7244f-00c6-4a20-ab41-e3e50421a494" />
+</p>

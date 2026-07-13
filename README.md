@@ -4,7 +4,7 @@
 
 <p align="center">
   <img width="66" height="20" alt="image" src="https://github.com/user-attachments/assets/152ed017-92b9-4ac6-ab99-5a3fc0fc9246" />
-  PLAYTIME: 4,963.9 hours
+  PLAYTIME: 5,005.6 hours
   STATUS: AFK
   <img width="66" height="20" alt="image" src="https://github.com/user-attachments/assets/888f2400-b11e-4e7c-b7d3-1b1c9633bc7e" />
 </p>

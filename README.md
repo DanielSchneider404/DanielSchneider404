@@ -89,6 +89,18 @@ alt="68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f6337393563613635663
 • Miss construction - Hass Und Liebe <br>
 • The flob,CHIN,Hà Lê -Khế Ước <br>
 • The flob,CHIN - Ma Cà Rồng <br>
+• Basement Jaxx - Where's Your Head At <br>
+• BuiTruonglinh,Vũ Phụng Tiên - Em Không Khóc ( Feat. Vũ Phụng Tiên ) <br>
+• BuiTruonglinh,Vũ Phụng Tiên,Đậu Tất Đạt - Lựa Chọn Của Em <br>
+• Sidney Gish - Impostor Syndrome <br>
+• Glass Animals - Pork Soda <br>
+• The Real Tuesday Weld - Me and Mr Wolf <br>
+• Pandora - Trust Me <br>
+• The Cardigans - Lovefool <br>
+•  INNA,J Balvin - Cola Song ( Feat.J Balvin ) <br>
+• Cafuné - Tek It <br>
+• Meghan Trainor - Me Too <br>
+• Lemon Demon - Fine <br>
 </p>
 
 </td>

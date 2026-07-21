@@ -79,15 +79,16 @@ alt="68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f6337393563613635663
 
 <td width="50%" valign="top">
 
-<h2>🎸 Looking for a Tord roleplayer!</h2>
+<h2> ♪ Favorite Songs </h2>
 
 <p>
-
-I'm not the best at roleplaying, so please be patient with me.
-We don't have to roleplay all the time—we can just chat normally, play game, match pfps, wear matching skins or simply spend time together. I honestly just want someone I can be comfortable around.
-I enjoy slow-paced interactions and making up stories together, but I'm also completely fine with casual conversations outside of roleplay.
-If you're kind, understanding, and don't mind helping me improve, I'd really appreciate it.
-
+• JAWN - Honeypie
+• Glass Animal - Heat waves
+• HIM - Join me
+• 3OH!3 - Dirty Mind
+• Miss construction - Hass Und Liebe
+• The flob,CHIN,Hà Lê -Khế Ước
+• The flob,CHIN - Ma Cà Rồng
 </p>
 
 </td>
@@ -97,13 +98,17 @@ If you're kind, understanding, and don't mind helping me improve, I'd really app
 <h2>── .✦ 💬 About</h2>
 
 <p>
+Hi, I'm just another quiet person on the Internet.
 
-I'd really love to find someone who's active enough to talk regularly and doesn't mind if I take a little while to reply sometimes. I can be a bit shy at first, so I might not always know what to say right away, but I genuinely enjoy spending time with people once I get comfortable.
+I'm a huge fan of Tom from Eddsworld. Maybe that's why I relate to him so much. I'm not the loudest person in a room, and I don't always know what to say, but I enjoy listening and observing. Sometimes silence says more than words ever could.
 
-I'm not looking for someone who's perfect at roleplaying—I'd much rather meet someone who's patient, understanding, and happy to take things at a relaxed pace. Whether we're roleplaying, chatting about random things, matching skins, doing fit checks, or just sitting together in silence, I'd be happy to have someone to share those moments with.
+Drawing is one of my favorite hobbies. I spend a lot of my time creating fan art, designing characters, and trying to improve with every sketch. I also enjoy roleplaying, even if I'm a little awkward at it.
 
-If you're interested, feel free to send me a DM. We don't have to jump straight into roleplay—we can get to know each other first, become friends, and see where things go. I'd honestly love to meet someone I can feel comfortable around and create fun memories with. 💙
+I like dry humor, late-night conversations, and people who can be themselves without pretending. Loyalty means a lot to me, and I believe friendships are built over time, not overnight.
 
+If you found me because of Tom, Eddsworld, or our shared interests, welcome. Feel free to say hi. I might be shy at first, but I always appreciate meeting people who enjoy the same things I do.
+
+"Not every quiet person is lonely. Sometimes we're just listening to the world."
 </p>
 
 </td>

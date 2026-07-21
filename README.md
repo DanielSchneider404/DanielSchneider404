@@ -97,10 +97,12 @@ alt="68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f6337393563613635663
 • The Real Tuesday Weld - Me and Mr Wolf <br>
 • Pandora - Trust Me <br>
 • The Cardigans - Lovefool <br>
-•  INNA,J Balvin - Cola Song ( Feat.J Balvin ) <br>
+• INNA,J Balvin - Cola Song ( Feat.J Balvin ) <br>
 • Cafuné - Tek It <br>
 • Meghan Trainor - Me Too <br>
 • Lemon Demon - Fine <br>
+• Superfruit - Guy.exe <br>
+• HOLYCHILD - Bathroom Bitch <br>
 </p>
 
 </td>

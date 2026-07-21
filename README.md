@@ -82,13 +82,13 @@ alt="68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f6337393563613635663
 <h2> ♪ Favorite Songs </h2>
 
 <p>
-• JAWN - Honeypie
-• Glass Animal - Heat waves
-• HIM - Join me
-• 3OH!3 - Dirty Mind
-• Miss construction - Hass Und Liebe
-• The flob,CHIN,Hà Lê -Khế Ước
-• The flob,CHIN - Ma Cà Rồng
+• JAWN - Honeypie <br>
+• Glass Animal - Heat waves <br>
+• HIM - Join me <br>
+• 3OH!3 - Dirty Mind <br>
+• Miss construction - Hass Und Liebe <br>
+• The flob,CHIN,Hà Lê -Khế Ước <br>
+• The flob,CHIN - Ma Cà Rồng <br>
 </p>
 
 </td>

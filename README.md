@@ -115,18 +115,17 @@ alt="68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f6337393563613635663
 <h2>── .✦ 💬 About</h2>
 
 <p>
-I'm not someone who is constantly active or able to reply to every message right away, so feel free to whisper me first so I can know you're there and that you've interacted with me!! I'll do my best to reply as soon as I can!! (๑•̀ㅂ•́)و✧
+I'm not someone who is constantly active or able to reply to every message right away, so feel free to whisper me first so I can know you're there and that you've interacted with me!! I'll do my best to reply as soon as I can!!
 
 
-I have to admit that I'm not a very outgoing person and I'm not always easy to approach or talk to (｡•́︿•̀｡), especially when it comes to strangers or people who don't speak Vietnamese. It's not because I don't want to talk to you. Honestly, once I get comfortable with someone (even just a little), I can be very talkative!! For people who don't share the same language as me, communication can be a bit more difficult...
+I have to admit that I'm not a very outgoing person and I'm not always easy to approach or talk to, especially when it comes to strangers or people who don't speak Vietnamese. It's not because I don't want to talk to you. Honestly, once I get comfortable with someone (even just a little), I can be very talkative!! For people who don't share the same language as me, communication can be a bit more difficult...
 
 
 I'm not very confident in my English, even though people around me often tell me it's quite impressive!! The truth is that I'm really bad at grammar, and it gives me a headache sometimes!! Most of the time, when I'm free, I spend it enjoying my hobbies. My daily life is pretty simple: school and home. There was even a period when I was barely at home because I was so busy with school and extra classes!!
 
-(╥﹏╥)｡｡｡
 
 
-I spent my time watching movies, drawing, shifting (I'm still learning!!), and other things that catch my interest. One of my dreams is to improve my art skills and open commissions in the future so I can earn money to buy the things I love hehehXDD. I enjoy peaceful environments and quiet places. I love spending time alone in those kinds of spaces, relaxing and doing my own thing (or maybe taking a very long nap!!) (｡>ω<｡) ✿
+I spent my time watching movies, drawing, shifting (I'm still learning!!), and other things that catch my interest. One of my dreams is to improve my art skills and open commissions in the future so I can earn money to buy the things I love hehehXDD. I enjoy peaceful environments and quiet places. I love spending time alone in those kinds of spaces, relaxing and doing my own thing (or maybe taking a very long nap!!)
 </p>
 
 </td>

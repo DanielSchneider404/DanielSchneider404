@@ -167,13 +167,6 @@ I spent my time watching movies, drawing, shifting (I'm still learning!!), and o
 
 </tr>
 </table>
-
-<br>
-Btw, I'd also love to join an Eddsworld roleplay group if anyone is looking for new members. I'd be really happy to meet more people in the fandom, make new friends, and roleplay together whenever everyone feels like it!!
-<p align="center">
-  <img width="700" src="https://github.com/user-attachments/assets/cea7244f-00c6-4a20-ab41-e3e50421a494" />
- What the heck are you two playing?
-<table align="center">
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 />
  <img width="372" height="520" alt="image" src="https://github.com/user-attachments/assets/e2322b49-6e54-4662-9603-ebbc4a922d65" </p>

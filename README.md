@@ -97,7 +97,8 @@ I like watching people have fun together. Seeing them laugh, joke around, and en
 alt="68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f63373935636136356639376639313832616234346431356234323561636434652f626431383037356166336534653731612d62652f733132383078313932302f333561303732303762333437653961306439643263346533643" src="https://github.com/user-attachments/assets/aebfa715-8b62-4ab0-939f-9f54ee0f4e93" />
 <br>
 <p align="center">
-  <img width="420" src="https://github.com/user-attachments/assets/acfc8a32-22f4-4d4c-b126-e095c38334b4" />
+ <img width="240" height="226" alt="image" src="https://github.com/user-attachments/assets/3a9cf4ef-4c2c-4e8b-8f90-cd4d47f2ed32" />
+
 </p>
 <br>
 <img width="1030" height="60" 

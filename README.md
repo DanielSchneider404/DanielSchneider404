@@ -174,3 +174,4 @@ I spent my time watching movies, drawing, shifting (I'm still learning!!), and o
 </p>
   don't send me this damn thing on my birthday <br>
 </p>
+<img width="666" height="752" alt="image" src="https://github.com/user-attachments/assets/1fd91032-bd29-436f-a2f0-f4ff5bb62c0d" />

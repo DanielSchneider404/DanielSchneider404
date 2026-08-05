@@ -91,10 +91,6 @@ I like watching people have fun together. Seeing them laugh, joke around, and en
 <img width="900" height="1000" alt="image" src="https://github.com/user-attachments/assets/73c1c6b3-30d8-45b4-8ce3-f593b736eaf0" />
 
 
-<img width="386" height="252" alt="image" src="https://github.com/user-attachments/assets/6232daac-12ff-48d3-af85-4ec6dc89895e" />
-
-
-
 </td>
 
 </tr>
@@ -104,6 +100,10 @@ alt="68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f6337393563613635663
 <br>
 <p align="center">
  <img width="240" height="226" alt="image" src="https://github.com/user-attachments/assets/3a9cf4ef-4c2c-4e8b-8f90-cd4d47f2ed32" />
+
+<img width="386" height="252" alt="image" src="https://github.com/user-attachments/assets/6232daac-12ff-48d3-af85-4ec6dc89895e" />
+
+
 
 </p>
 <br>

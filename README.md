@@ -70,7 +70,6 @@
 
 <img width="1200" height="152" alt="image" src="https://github.com/user-attachments/assets/46169070-5724-4aba-883b-0f405b4d8e38" />
 
-<img width="386" height="252" alt="image" src="https://github.com/user-attachments/assets/6232daac-12ff-48d3-af85-4ec6dc89895e" />
 
 <img width="1200" height="20" alt="612770163-15440338-8a4d-45ca-8a7e-5a09a22bc1d5" src="https://github.com/user-attachments/assets/1b5be733-d04b-4c4a-8375-13df460fac3f" />
 
@@ -90,6 +89,11 @@ I like watching people have fun together. Seeing them laugh, joke around, and en
 <td width="32%" valign="top" align="right">
 
 <img width="900" height="1000" alt="image" src="https://github.com/user-attachments/assets/73c1c6b3-30d8-45b4-8ce3-f593b736eaf0" />
+
+
+<img width="386" height="252" alt="image" src="https://github.com/user-attachments/assets/6232daac-12ff-48d3-af85-4ec6dc89895e" />
+
+
 
 </td>
 

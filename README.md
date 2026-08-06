@@ -18,7 +18,13 @@
 <img width="900" height="1010" alt="image" src="https://github.com/user-attachments/assets/90eb21b6-d195-4b82-bf03-1cf5039bdee0" />
 
 
-</td>
+<table>
+<tr>
+
+<td width="68%" valign="top">
+
+<p align="justify">
+
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2a413cfb-a220-46b9-8286-e2c0b51378c6" />
 

@@ -22,7 +22,15 @@
 
 <td>
 
-𝐈'𝐦 𝐭𝐞𝐫𝐫𝐢𝐛𝐥𝐞 𝐚𝐭 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧, 𝐜𝐥𝐮𝐦𝐬𝐲 𝐚𝐭 𝐡𝐨𝐥𝐝𝐢𝐧𝐠 𝐨𝐧𝐭𝐨 𝐫𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐬𝐡𝐢𝐩𝐬, 𝐜𝐥𝐮𝐞𝐥𝐞𝐬𝐬 𝐚𝐛𝐨𝐮𝐭 𝐭𝐚𝐤𝐢𝐧𝐠 𝐭𝐡𝐞 𝐢𝐧𝐢𝐭𝐢𝐚𝐭𝐢𝐯𝐞, 𝐚𝐧𝐝 𝐡𝐨𝐩𝐞𝐥𝐞𝐬𝐬 𝐚𝐭 𝐡𝐨𝐥𝐝𝐢𝐧𝐠 𝐛𝐚𝐜𝐤 𝐚𝐧𝐲𝐨𝐧𝐞 𝐰𝐡𝐨 𝐰𝐚𝐧𝐭𝐬 𝐭𝐨 𝐥𝐞𝐚𝐯𝐞. 𝐈 𝐚𝐥𝐰𝐚𝐲𝐬 𝐭𝐡𝐨𝐮𝐠𝐡𝐭 𝐭𝐡𝐚𝐭 𝐛𝐞𝐢𝐧𝐠 𝐠𝐞𝐧𝐮𝐢𝐧𝐞 𝐰𝐚𝐬 𝐞𝐧𝐨𝐮𝐠𝐡, 𝐛𝐮𝐭 𝐚𝐬 𝐮𝐬𝐮𝐚𝐥, 𝐈 𝐞𝐧𝐝𝐞𝐝 𝐮𝐩 𝐛𝐞𝐢𝐧𝐠 𝐥𝐞𝐟𝐭 𝐛𝐞𝐡𝐢𝐧𝐝. 𝐈 𝐰𝐚𝐧𝐭𝐞𝐝 𝐭𝐨 𝐛𝐥𝐞𝐧𝐝 𝐢𝐧, 𝐭𝐨 𝐛𝐞 𝐚 𝐩𝐚𝐫𝐭 𝐨𝐟 𝐬𝐨𝐦𝐞𝐨𝐧𝐞'𝐬 𝐰𝐨𝐫𝐥𝐝, 𝐛𝐮𝐭 𝐦𝐲 𝐬𝐨𝐜𝐢𝐚𝐥 𝐚𝐰𝐤𝐰𝐚𝐫𝐝𝐧𝐞𝐬𝐬 𝐚𝐥𝐰𝐚𝐲𝐬 𝐠𝐞𝐭𝐬 𝐢𝐧 𝐭𝐡𝐞 𝐰𝐚𝐲. 𝐈𝐧 𝐭𝐡𝐞 𝐞𝐧𝐝, 𝐈'𝐦 𝐣𝐮𝐬𝐭 𝐚𝐧 𝐨𝐛𝐬𝐞𝐫𝐯𝐞𝐫, 𝐰𝐚𝐭𝐜𝐡𝐢𝐧𝐠 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐞𝐥𝐬𝐞 𝐦𝐨𝐯𝐞 𝐟𝐨𝐫𝐰𝐚𝐫𝐝 𝐰𝐡𝐢𝐥𝐞 𝐈 𝐫𝐞𝐦𝐚𝐢𝐧 𝐬𝐭𝐮𝐜𝐤 𝐢𝐧 𝐦𝐲 𝐨𝐰𝐧 𝐪𝐮𝐢𝐞𝐭 𝐜𝐨𝐫𝐧𝐞𝐫.
+<p align="left">
+<font color="#C2CCC9"><b>I’m terrible at communication, clumsy at holding onto relationships,</b></font>
+<font color="#99B6B3"><b> clueless about taking the initiative, and hopeless at holding back anyone who wants to leave.</b></font>
+<font color="#749DA1"><b> I always thought that being genuine was enough, but as usual, I ended up being left behind.</b></font>
+<font color="#547C8B"><b> I wanted to blend in, to be a part of someone’s world, but my social awkwardness always gets in the way.</b></font>
+<font color="#3A5A76"><b> In the end, I’m just an observer, watching everyone else move forward</b></font>
+<font color="#243960"><b> while I remain stuck in my own quiet</b></font>
+<font color="#131B4A"><b> corner.</b></font>
+</p>
 
 <p align="center">
 </p>

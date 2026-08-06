@@ -65,6 +65,7 @@
     forward while I remain stuck in my own quiet corner.
   </text>
 </svg>
+
 </p>
 
 <p align="center">

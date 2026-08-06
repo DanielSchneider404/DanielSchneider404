@@ -19,7 +19,8 @@
 
 
 </td>
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f2b5faed-85bb-41b7-b3c6-019e78e2ecbe" />
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2a413cfb-a220-46b9-8286-e2c0b51378c6" />
 
 
 </p>

@@ -20,16 +20,67 @@
 
 </td>
 
-<td>
 
-<p align="left">
-<font color="#C2CCC9"><b>I’m terrible at communication, clumsy at holding onto relationships,</b></font>
-<font color="#99B6B3"><b> clueless about taking the initiative, and hopeless at holding back anyone who wants to leave.</b></font>
-<font color="#749DA1"><b> I always thought that being genuine was enough, but as usual, I ended up being left behind.</b></font>
-<font color="#547C8B"><b> I wanted to blend in, to be a part of someone’s world, but my social awkwardness always gets in the way.</b></font>
-<font color="#3A5A76"><b> In the end, I’m just an observer, watching everyone else move forward</b></font>
-<font color="#243960"><b> while I remain stuck in my own quiet</b></font>
-<font color="#131B4A"><b> corner.</b></font>
+
+
+<svg width="100%" height="360" viewBox="0 0 900 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C2CCC9"/>
+      <stop offset="16%" stop-color="#99B6B3"/>
+      <stop offset="32%" stop-color="#749DA1"/>
+      <stop offset="48%" stop-color="#547C8B"/>
+      <stop offset="64%" stop-color="#3A5A76"/>
+      <stop offset="82%" stop-color="#243960"/>
+      <stop offset="100%" stop-color="#131B4A"/>
+    </linearGradient>
+  </defs>
+
+  <text x="20" y="40" fill="url(#grad)"
+        font-size="18" font-family="Georgia, serif" font-weight="600">
+    I’m terrible at communication, clumsy at holding onto relationships,
+  </text>
+
+  <text x="20" y="75" fill="url(#grad)"
+        font-size="18" font-family="Georgia, serif" font-weight="600">
+    clueless about taking the initiative, and hopeless at holding back
+  </text>
+
+  <text x="20" y="110" fill="url(#grad)"
+        font-size="18" font-family="Georgia, serif" font-weight="600">
+    anyone who wants to leave. I always thought that being genuine
+  </text>
+
+  <text x="20" y="145" fill="url(#grad)"
+        font-size="18" font-family="Georgia, serif" font-weight="600">
+    was enough, but as usual, I ended up being left behind.
+  </text>
+
+  <text x="20" y="180" fill="url(#grad)"
+        font-size="18" font-family="Georgia, serif" font-weight="600">
+    I wanted to blend in, to be a part of someone’s world,
+  </text>
+
+  <text x="20" y="215" fill="url(#grad)"
+        font-size="18" font-family="Georgia, serif" font-weight="600">
+    but my social awkwardness always gets in the way.
+  </text>
+
+  <text x="20" y="250" fill="url(#grad)"
+        font-size="18" font-family="Georgia, serif" font-weight="600">
+    In the end, I’m just an observer, watching everyone else move
+  </text>
+
+  <text x="20" y="285" fill="url(#grad)"
+        font-size="18" font-family="Georgia, serif" font-weight="600">
+    forward while I remain stuck in my own quiet corner.
+  </text>
+</svg>
+
+
+
+
+
 </p>
 
 <p align="center">

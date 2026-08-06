@@ -82,7 +82,8 @@
 
 <p align="justify">
 
-I like watching people have fun together. Seeing them laugh, joke around, and enjoy each other's company somehow makes me smile. Sometimes I wish I could be part of moments like that, but I never really know how to fit in. Conversations don't come naturally to me, and I always end up standing quietly on the sidelines. Maybe, that's just who I am—someone who watches from a distance while everyone else is making memories. Maybe one day I'll find people I can truly belong with. Until then, I'm okay with being the quiet one in the corner, listening more than speaking. Even if I don't always know what to say, I still enjoy being around people and watching them smile. Sometimes that's enough for me.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e87294ec-4664-477f-8215-c025e8170e56" />
+
 
 </p>
 

@@ -1,4 +1,4 @@
-<p align="center">${{\color{252525}\texttt{ info herr }}}$
+<p align="center">${{\color{252525}\text{ info herr }}}$
 <p align="center">
   <img width="900" height="347" alt="image" src="https://github.com/user-attachments/assets/137cac8e-cbd6-4ced-8bcf-6322de0d648d" />
 </p>

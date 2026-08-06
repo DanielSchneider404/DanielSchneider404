@@ -1,4 +1,4 @@
-<span style='color[#ca6f5b];'>"I hatechu Commie!!"</span>
+<span style="color:#C2CCC9;">I’m terrible at communication</span>
 <p align="center">
   <img width="900" height="347" alt="image" src="https://github.com/user-attachments/assets/137cac8e-cbd6-4ced-8bcf-6322de0d648d" />
 </p>
